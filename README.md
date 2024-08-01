@@ -1,5 +1,8 @@
-## Hi there 👋
+## welcome to my profile 👋
 
+meu nome e beatriz 
+
+-i'm studying alura 
 <!--
 **beatrizdesous/beatrizdesous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
